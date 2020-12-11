@@ -1,7 +1,7 @@
 # Handwritten-English-Character-Recognition-using-SVM-and-ANN
 
 </br>
-You can Download my survey paper from : <a href="http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7253978&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D7253978">Handwritten character recognition using machine learning approach - a survey</a>
+You can Download my survey paper from : <a href="https://ieeexplore.ieee.org/document/7253978">Handwritten character recognition using machine learning approach - a survey</a>
 </br>
 
 ME Dissertation Work - 2014'15 - by +shivangpatel
